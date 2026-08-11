@@ -1,0 +1,9 @@
+imagen,algoritmo,espacio_color,k,silhouette,davies_bouldin,tiempo_seg,iou,dice
+foto3,K-Means,lab,2,0.363,1.2148,0.049,,
+foto3,K-Means,lab,3,0.3633,1.1699,0.0992,,
+foto3,K-Means,lab,4,0.3867,1.1286,0.1486,,
+foto3,K-Means,lab,5,0.359,1.0389,0.1061,,
+foto3,K-Means,rgb,2,0.4415,0.898,0.0566,,
+foto3,K-Means,rgb,3,0.4444,0.9431,0.0981,,
+foto3,K-Means,rgb,4,0.4184,0.888,0.107,,
+foto3,K-Means,rgb,5,0.3656,1.025,0.1106,,

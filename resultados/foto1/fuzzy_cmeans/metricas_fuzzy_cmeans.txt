@@ -1,0 +1,21 @@
+Resumen - Fuzzy C-Means - imagen: foto1
+============================================================
+
+Mejor configuración (mayor Silhouette):
+  espacio_color = rgb
+  k             = 2
+  silhouette    = 0.4336
+  davies_bouldin= 0.9134
+  tiempo_seg    = 0.2651
+
+Todas las combinaciones probadas (espacio_color x k):
+
+espacio   k    silhouette  davies_bouldin  tiempo_seg  
+lab       2    0.2806      1.5068          0.3224      
+lab       3    0.294       1.3814          0.6029      
+lab       4    0.2708      1.3152          0.8005      
+lab       5    0.2836      1.292           0.9136      
+rgb       2    0.4336      0.9134          0.2651      
+rgb       3    0.3441      1.1556          0.4711      
+rgb       4    0.3045      1.0949          0.6519      
+rgb       5    0.3184      1.1295          1.2347      

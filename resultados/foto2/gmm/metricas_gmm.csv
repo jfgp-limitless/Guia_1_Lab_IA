@@ -1,0 +1,9 @@
+imagen,algoritmo,espacio_color,k,silhouette,davies_bouldin,tiempo_seg,iou,dice
+foto2,GMM,lab,2,0.2331,2.3298,0.2639,,
+foto2,GMM,lab,3,0.2029,3.7732,0.7585,,
+foto2,GMM,lab,4,0.2225,2.2481,0.7679,,
+foto2,GMM,lab,5,0.2688,1.9169,0.4391,,
+foto2,GMM,rgb,2,0.3491,1.354,0.2,,
+foto2,GMM,rgb,3,0.2683,1.2479,0.7452,,
+foto2,GMM,rgb,4,0.2839,1.1438,0.3656,,
+foto2,GMM,rgb,5,0.2831,1.4436,0.5691,,

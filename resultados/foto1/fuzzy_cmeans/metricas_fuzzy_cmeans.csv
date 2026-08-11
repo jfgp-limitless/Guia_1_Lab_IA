@@ -1,0 +1,9 @@
+imagen,algoritmo,espacio_color,k,silhouette,davies_bouldin,tiempo_seg,iou,dice
+foto1,Fuzzy C-Means,lab,2,0.2806,1.5068,0.3224,,
+foto1,Fuzzy C-Means,lab,3,0.294,1.3814,0.6029,,
+foto1,Fuzzy C-Means,lab,4,0.2708,1.3152,0.8005,,
+foto1,Fuzzy C-Means,lab,5,0.2836,1.292,0.9136,,
+foto1,Fuzzy C-Means,rgb,2,0.4336,0.9134,0.2651,,
+foto1,Fuzzy C-Means,rgb,3,0.3441,1.1556,0.4711,,
+foto1,Fuzzy C-Means,rgb,4,0.3045,1.0949,0.6519,,
+foto1,Fuzzy C-Means,rgb,5,0.3184,1.1295,1.2347,,

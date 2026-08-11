@@ -1,0 +1,21 @@
+Resumen - GMM - imagen: foto2
+============================================================
+
+Mejor configuración (mayor Silhouette):
+  espacio_color = rgb
+  k             = 2
+  silhouette    = 0.3491
+  davies_bouldin= 1.354
+  tiempo_seg    = 0.2
+
+Todas las combinaciones probadas (espacio_color x k):
+
+espacio   k    silhouette  davies_bouldin  tiempo_seg  
+lab       2    0.2331      2.3298          0.2639      
+lab       3    0.2029      3.7732          0.7585      
+lab       4    0.2225      2.2481          0.7679      
+lab       5    0.2688      1.9169          0.4391      
+rgb       2    0.3491      1.354           0.2         
+rgb       3    0.2683      1.2479          0.7452      
+rgb       4    0.2839      1.1438          0.3656      
+rgb       5    0.2831      1.4436          0.5691      

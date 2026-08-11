@@ -1,0 +1,21 @@
+Resumen - K-Means - imagen: foto3
+============================================================
+
+Mejor configuración (mayor Silhouette):
+  espacio_color = rgb
+  k             = 3
+  silhouette    = 0.4444
+  davies_bouldin= 0.9431
+  tiempo_seg    = 0.0981
+
+Todas las combinaciones probadas (espacio_color x k):
+
+espacio   k    silhouette  davies_bouldin  tiempo_seg  
+lab       2    0.363       1.2148          0.049       
+lab       3    0.3633      1.1699          0.0992      
+lab       4    0.3867      1.1286          0.1486      
+lab       5    0.359       1.0389          0.1061      
+rgb       2    0.4415      0.898           0.0566      
+rgb       3    0.4444      0.9431          0.0981      
+rgb       4    0.4184      0.888           0.107       
+rgb       5    0.3656      1.025           0.1106      
